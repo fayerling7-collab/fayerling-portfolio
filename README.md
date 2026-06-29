@@ -45,14 +45,14 @@ src/
 │   ├── Projects.tsx        # 项目经历
 │   ├── Education.tsx       # 教育背景
 │   ├── Skills.tsx          # 技能证书
-│   └── Contact.tsx         # 联系方式
+│   └── Contact.tsx          # 联系方式
 ├── lib/
 │   └── data.ts             # 所有简历数据
 ├── types/
 │   └── index.ts            # TypeScript类型定义
 └── public/
     ├── robots.txt          # SEO爬虫配置
-    └── sitemap.xml         # 站点地图
+    └── sitemap.xml          # 站点地图
 ```
 
 ## 功能特性
@@ -74,7 +74,7 @@ npm run build
 npm start
 ```
 
-支持一键部署到 Vercel。
+支持一键部署到 Vercel 和 Netlify。
 
 ## 内容更新
 
